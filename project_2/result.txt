@@ -1,0 +1,2 @@
+The shortest distance from 243315 to 176619 is 659488
+Time: 332ms

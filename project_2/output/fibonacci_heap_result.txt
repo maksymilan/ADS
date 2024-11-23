@@ -1,0 +1,1700 @@
+The shortest distance from 151581 to 49639 is 267674
+order: 0 Time: 299ms
+The shortest distance from 21446 to 159543 is 612873
+order: 1 Time: 702ms
+The shortest distance from 216471 to 251258 is 440151
+order: 2 Time: 493ms
+The shortest distance from 58350 to 146884 is 574887
+order: 3 Time: 432ms
+The shortest distance from 59603 to 239821 is 874669
+order: 4 Time: 696ms
+The shortest distance from 63608 to 152218 is 827196
+order: 5 Time: 625ms
+The shortest distance from 206219 to 167940 is 150352
+order: 6 Time: 189ms
+The shortest distance from 158467 to 7880 is 718249
+order: 7 Time: 530ms
+The shortest distance from 251714 to 209352 is 304054
+order: 8 Time: 260ms
+The shortest distance from 159544 to 29466 is 786915
+order: 9 Time: 649ms
+The shortest distance from 260823 to 111960 is 741358
+order: 10 Time: 334ms
+The shortest distance from 240086 to 178906 is 473604
+order: 11 Time: 420ms
+The shortest distance from 177414 to 81939 is 1067894
+order: 12 Time: 763ms
+The shortest distance from 141953 to 147091 is 68863
+order: 13 Time: 121ms
+The shortest distance from 250802 to 198290 is 218239
+order: 14 Time: 200ms
+The shortest distance from 24070 to 22715 is 85405
+order: 15 Time: 123ms
+The shortest distance from 153277 to 255846 is 446335
+order: 16 Time: 341ms
+The shortest distance from 142728 to 246472 is 382521
+order: 17 Time: 486ms
+The shortest distance from 142222 to 210352 is 197494
+order: 18 Time: 227ms
+The shortest distance from 246408 to 197683 is 284631
+order: 19 Time: 220ms
+The shortest distance from 13202 to 120517 is 491464
+order: 20 Time: 625ms
+The shortest distance from 74923 to 173577 is 797855
+order: 21 Time: 678ms
+The shortest distance from 262727 to 8106 is 436843
+order: 22 Time: 205ms
+The shortest distance from 85278 to 242668 is 1102144
+order: 23 Time: 730ms
+The shortest distance from 188128 to 54759 is 168661
+order: 24 Time: 197ms
+The shortest distance from 83235 to 142910 is 595018
+order: 25 Time: 268ms
+The shortest distance from 171827 to 195869 is 304510
+order: 26 Time: 233ms
+The shortest distance from 253154 to 239259 is 323669
+order: 27 Time: 311ms
+The shortest distance from 41402 to 126606 is 224936
+order: 28 Time: 221ms
+The shortest distance from 89839 to 39121 is 606155
+order: 29 Time: 354ms
+The shortest distance from 2327 to 209469 is 547710
+order: 30 Time: 271ms
+The shortest distance from 204823 to 127947 is 412308
+order: 31 Time: 446ms
+The shortest distance from 173486 to 211184 is 343004
+order: 32 Time: 211ms
+The shortest distance from 75009 to 188203 is 570908
+order: 33 Time: 447ms
+The shortest distance from 102137 to 121690 is 78649
+order: 34 Time: 111ms
+The shortest distance from 150606 to 144490 is 79375
+order: 35 Time: 118ms
+The shortest distance from 118488 to 150240 is 934675
+order: 36 Time: 578ms
+The shortest distance from 66225 to 76969 is 102979
+order: 37 Time: 122ms
+The shortest distance from 93469 to 76798 is 787703
+order: 38 Time: 723ms
+The shortest distance from 114431 to 80534 is 1046895
+order: 39 Time: 746ms
+The shortest distance from 128080 to 31001 is 431391
+order: 40 Time: 485ms
+The shortest distance from 225748 to 26575 is 470692
+order: 41 Time: 295ms
+The shortest distance from 64568 to 172272 is 768020
+order: 42 Time: 651ms
+The shortest distance from 101460 to 23762 is 449957
+order: 43 Time: 414ms
+The shortest distance from 89232 to 261597 is 829961
+order: 44 Time: 601ms
+The shortest distance from 174629 to 255159 is 860813
+order: 45 Time: 716ms
+The shortest distance from 14363 to 91689 is 872131
+order: 46 Time: 799ms
+The shortest distance from 216246 to 185328 is 490928
+order: 47 Time: 561ms
+The shortest distance from 196245 to 148491 is 165117
+order: 48 Time: 207ms
+The shortest distance from 104471 to 23587 is 169433
+order: 49 Time: 185ms
+The shortest distance from 80328 to 245846 is 1003367
+order: 50 Time: 677ms
+The shortest distance from 38483 to 263325 is 705733
+order: 51 Time: 754ms
+The shortest distance from 107504 to 165353 is 638192
+order: 52 Time: 635ms
+The shortest distance from 111586 to 8205 is 192618
+order: 53 Time: 203ms
+The shortest distance from 80347 to 45821 is 492802
+order: 54 Time: 242ms
+The shortest distance from 239415 to 250926 is 258627
+order: 55 Time: 166ms
+The shortest distance from 83383 to 39927 is 709639
+order: 56 Time: 309ms
+The shortest distance from 4710 to 227219 is 470019
+order: 57 Time: 241ms
+The shortest distance from 146464 to 193544 is 771163
+order: 58 Time: 764ms
+The shortest distance from 136585 to 212033 is 272696
+order: 59 Time: 309ms
+The shortest distance from 254103 to 21822 is 364302
+order: 60 Time: 320ms
+The shortest distance from 103634 to 123123 is 246249
+order: 61 Time: 255ms
+The shortest distance from 86201 to 124803 is 426521
+order: 62 Time: 210ms
+The shortest distance from 218751 to 208958 is 378029
+order: 63 Time: 407ms
+The shortest distance from 173275 to 103001 is 835857
+order: 64 Time: 622ms
+The shortest distance from 73291 to 249697 is 766842
+order: 65 Time: 587ms
+The shortest distance from 135512 to 139061 is 79588
+order: 66 Time: 121ms
+The shortest distance from 193706 to 70806 is 888970
+order: 67 Time: 661ms
+The shortest distance from 32542 to 64262 is 708287
+order: 68 Time: 666ms
+The shortest distance from 184776 to 162580 is 57617
+order: 69 Time: 115ms
+The shortest distance from 162057 to 64326 is 706942
+order: 70 Time: 652ms
+The shortest distance from 50078 to 180529 is 639211
+order: 71 Time: 654ms
+The shortest distance from 72052 to 80128 is 197913
+order: 72 Time: 194ms
+The shortest distance from 153271 to 41891 is 672128
+order: 73 Time: 562ms
+The shortest distance from 35444 to 104336 is 244500
+order: 74 Time: 182ms
+The shortest distance from 100091 to 162838 is 678675
+order: 75 Time: 617ms
+The shortest distance from 97084 to 6602 is 488292
+order: 76 Time: 388ms
+The shortest distance from 35409 to 40657 is 230778
+order: 77 Time: 229ms
+The shortest distance from 223408 to 10916 is 458900
+order: 78 Time: 521ms
+The shortest distance from 241627 to 160789 is 560301
+order: 79 Time: 608ms
+The shortest distance from 63502 to 135880 is 635235
+order: 80 Time: 492ms
+The shortest distance from 205383 to 232207 is 475023
+order: 81 Time: 549ms
+The shortest distance from 26663 to 114413 is 517154
+order: 82 Time: 647ms
+The shortest distance from 62941 to 236078 is 1109021
+order: 83 Time: 770ms
+The shortest distance from 246085 to 187263 is 208265
+order: 84 Time: 166ms
+The shortest distance from 5045 to 48523 is 628004
+order: 85 Time: 525ms
+The shortest distance from 45996 to 208395 is 432615
+order: 86 Time: 490ms
+The shortest distance from 206944 to 35393 is 540859
+order: 87 Time: 583ms
+The shortest distance from 126086 to 16021 is 432484
+order: 88 Time: 454ms
+The shortest distance from 201735 to 140720 is 218337
+order: 89 Time: 246ms
+The shortest distance from 260283 to 72019 is 835751
+order: 90 Time: 681ms
+The shortest distance from 205582 to 71484 is 537033
+order: 91 Time: 604ms
+The shortest distance from 157939 to 36113 is 662222
+order: 92 Time: 497ms
+The shortest distance from 8335 to 173278 is 709577
+order: 93 Time: 708ms
+The shortest distance from 90491 to 140012 is 581638
+order: 94 Time: 304ms
+The shortest distance from 103774 to 18070 is 142116
+order: 95 Time: 159ms
+The shortest distance from 216519 to 186816 is 220886
+order: 96 Time: 186ms
+The shortest distance from 7947 to 226302 is 220831
+order: 97 Time: 198ms
+The shortest distance from 238751 to 94010 is 665965
+order: 98 Time: 476ms
+The shortest distance from 69135 to 42470 is 337061
+order: 99 Time: 297ms
+The shortest distance from 142143 to 87367 is 563155
+order: 100 Time: 679ms
+The shortest distance from 120589 to 72306 is 95795
+order: 101 Time: 125ms
+The shortest distance from 9647 to 73697 is 777870
+order: 102 Time: 731ms
+The shortest distance from 71451 to 158054 is 744237
+order: 103 Time: 636ms
+The shortest distance from 81 to 10885 is 469262
+order: 104 Time: 216ms
+The shortest distance from 159247 to 41172 is 538708
+order: 105 Time: 386ms
+The shortest distance from 200669 to 260659 is 606092
+order: 106 Time: 657ms
+The shortest distance from 64266 to 254870 is 820126
+order: 107 Time: 618ms
+The shortest distance from 203308 to 198054 is 90629
+order: 108 Time: 139ms
+The shortest distance from 243870 to 249396 is 264784
+order: 109 Time: 161ms
+The shortest distance from 189287 to 113860 is 544723
+order: 110 Time: 674ms
+The shortest distance from 122018 to 209329 is 580819
+order: 111 Time: 522ms
+The shortest distance from 143123 to 120274 is 388387
+order: 112 Time: 444ms
+The shortest distance from 200678 to 56410 is 376170
+order: 113 Time: 440ms
+The shortest distance from 45976 to 209314 is 433405
+order: 114 Time: 487ms
+The shortest distance from 108049 to 221186 is 506672
+order: 115 Time: 495ms
+The shortest distance from 18513 to 186511 is 260946
+order: 116 Time: 281ms
+The shortest distance from 243259 to 205980 is 499019
+order: 117 Time: 335ms
+The shortest distance from 220674 to 46681 is 277015
+order: 118 Time: 241ms
+The shortest distance from 187112 to 149309 is 173833
+order: 119 Time: 200ms
+The shortest distance from 65050 to 258637 is 944909
+order: 120 Time: 690ms
+The shortest distance from 20291 to 172417 is 426113
+order: 121 Time: 521ms
+The shortest distance from 59974 to 208655 is 593546
+order: 122 Time: 492ms
+The shortest distance from 122407 to 140173 is 397866
+order: 123 Time: 331ms
+The shortest distance from 6027 to 131342 is 873839
+order: 124 Time: 583ms
+The shortest distance from 263586 to 186868 is 428900
+order: 125 Time: 336ms
+The shortest distance from 247702 to 198386 is 351704
+order: 126 Time: 266ms
+The shortest distance from 120611 to 160830 is 766356
+order: 127 Time: 705ms
+The shortest distance from 135656 to 42616 is 401871
+order: 128 Time: 530ms
+The shortest distance from 150744 to 241150 is 445242
+order: 129 Time: 559ms
+The shortest distance from 111848 to 249178 is 322422
+order: 130 Time: 312ms
+The shortest distance from 151150 to 44063 is 376071
+order: 131 Time: 424ms
+The shortest distance from 128446 to 108189 is 400060
+order: 132 Time: 372ms
+The shortest distance from 263016 to 122812 is 897573
+order: 133 Time: 653ms
+The shortest distance from 249904 to 114752 is 639283
+order: 134 Time: 695ms
+The shortest distance from 247659 to 37076 is 529981
+order: 135 Time: 500ms
+The shortest distance from 105390 to 7781 is 230223
+order: 136 Time: 258ms
+The shortest distance from 181855 to 253204 is 291759
+order: 137 Time: 295ms
+The shortest distance from 98471 to 47009 is 308668
+order: 138 Time: 207ms
+The shortest distance from 154302 to 22752 is 513285
+order: 139 Time: 374ms
+The shortest distance from 172904 to 52481 is 375864
+order: 140 Time: 314ms
+The shortest distance from 67539 to 163606 is 666422
+order: 141 Time: 584ms
+The shortest distance from 194469 to 110439 is 533027
+order: 142 Time: 176ms
+The shortest distance from 261448 to 220885 is 960493
+order: 143 Time: 657ms
+The shortest distance from 160179 to 115476 is 1003709
+order: 144 Time: 731ms
+The shortest distance from 192803 to 194990 is 766239
+order: 145 Time: 394ms
+The shortest distance from 111018 to 215220 is 456128
+order: 146 Time: 475ms
+The shortest distance from 146349 to 208980 is 225647
+order: 147 Time: 224ms
+The shortest distance from 145051 to 261305 is 473732
+order: 148 Time: 570ms
+The shortest distance from 73091 to 89368 is 197251
+order: 149 Time: 186ms
+The shortest distance from 242430 to 231223 is 270618
+order: 150 Time: 207ms
+The shortest distance from 31297 to 155092 is 752637
+order: 151 Time: 699ms
+The shortest distance from 175916 to 236941 is 861313
+order: 152 Time: 677ms
+The shortest distance from 212606 to 131294 is 435903
+order: 153 Time: 416ms
+The shortest distance from 222980 to 157942 is 546219
+order: 154 Time: 680ms
+The shortest distance from 33378 to 248756 is 356823
+order: 155 Time: 359ms
+The shortest distance from 142166 to 214124 is 218789
+order: 156 Time: 262ms
+The shortest distance from 9559 to 206399 is 449690
+order: 157 Time: 440ms
+The shortest distance from 240977 to 70683 is 668291
+order: 158 Time: 652ms
+The shortest distance from 236966 to 95607 is 883268
+order: 159 Time: 623ms
+The shortest distance from 84283 to 88425 is 233113
+order: 160 Time: 124ms
+The shortest distance from 10291 to 124042 is 572005
+order: 161 Time: 610ms
+The shortest distance from 185914 to 28517 is 435929
+order: 162 Time: 353ms
+The shortest distance from 4462 to 213409 is 669940
+order: 163 Time: 533ms
+The shortest distance from 194804 to 28221 is 210956
+order: 164 Time: 249ms
+The shortest distance from 71832 to 75431 is 181361
+order: 165 Time: 174ms
+The shortest distance from 241263 to 20642 is 328362
+order: 166 Time: 274ms
+The shortest distance from 223060 to 1868 is 700924
+order: 167 Time: 737ms
+The shortest distance from 147866 to 108158 is 581394
+order: 168 Time: 647ms
+The shortest distance from 193880 to 50320 is 578579
+order: 169 Time: 361ms
+The shortest distance from 49383 to 228207 is 484812
+order: 170 Time: 618ms
+The shortest distance from 1795 to 209383 is 466249
+order: 171 Time: 290ms
+The shortest distance from 85175 to 249415 is 885986
+order: 172 Time: 587ms
+The shortest distance from 47243 to 179239 is 492042
+order: 173 Time: 593ms
+The shortest distance from 82412 to 197929 is 809539
+order: 174 Time: 396ms
+The shortest distance from 98370 to 211164 is 630995
+order: 175 Time: 570ms
+The shortest distance from 144484 to 101115 is 443779
+order: 176 Time: 563ms
+The shortest distance from 45534 to 20197 is 338521
+order: 177 Time: 368ms
+The shortest distance from 155116 to 158594 is 72940
+order: 178 Time: 120ms
+The shortest distance from 245726 to 128799 is 686489
+order: 179 Time: 647ms
+The shortest distance from 121844 to 222438 is 337765
+order: 180 Time: 274ms
+The shortest distance from 218884 to 225495 is 789087
+order: 181 Time: 754ms
+The shortest distance from 227542 to 242757 is 296251
+order: 182 Time: 196ms
+The shortest distance from 231318 to 1019 is 475128
+order: 183 Time: 348ms
+The shortest distance from 247118 to 144952 is 415368
+order: 184 Time: 416ms
+The shortest distance from 204027 to 30922 is 560676
+order: 185 Time: 639ms
+The shortest distance from 234547 to 96192 is 608890
+order: 186 Time: 535ms
+The shortest distance from 38374 to 127925 is 122424
+order: 187 Time: 149ms
+The shortest distance from 214025 to 214521 is 115762
+order: 188 Time: 156ms
+The shortest distance from 209485 to 5814 is 612018
+order: 189 Time: 642ms
+The shortest distance from 94665 to 85874 is 825127
+order: 190 Time: 639ms
+The shortest distance from 2863 to 23329 is 633706
+order: 191 Time: 423ms
+The shortest distance from 18265 to 175006 is 606989
+order: 192 Time: 715ms
+The shortest distance from 38867 to 172387 is 474227
+order: 193 Time: 588ms
+The shortest distance from 47627 to 88622 is 423377
+order: 194 Time: 529ms
+The shortest distance from 184023 to 54461 is 470369
+order: 195 Time: 390ms
+The shortest distance from 248141 to 19595 is 398857
+order: 196 Time: 374ms
+The shortest distance from 51603 to 235413 is 479106
+order: 197 Time: 656ms
+The shortest distance from 93302 to 112800 is 196382
+order: 198 Time: 149ms
+The shortest distance from 12129 to 116234 is 485984
+order: 199 Time: 623ms
+The shortest distance from 71993 to 4622 is 926852
+order: 200 Time: 756ms
+The shortest distance from 39438 to 129554 is 238854
+order: 201 Time: 261ms
+The shortest distance from 52357 to 97383 is 434328
+order: 202 Time: 611ms
+The shortest distance from 35504 to 142116 is 404640
+order: 203 Time: 409ms
+The shortest distance from 52348 to 235361 is 429473
+order: 204 Time: 602ms
+The shortest distance from 140362 to 151847 is 95673
+order: 205 Time: 129ms
+The shortest distance from 173486 to 151918 is 534619
+order: 206 Time: 339ms
+The shortest distance from 48853 to 171262 is 504587
+order: 207 Time: 643ms
+The shortest distance from 263149 to 132554 is 900788
+order: 208 Time: 695ms
+The shortest distance from 1753 to 25125 is 406051
+order: 209 Time: 222ms
+The shortest distance from 23037 to 4481 is 483007
+order: 210 Time: 633ms
+The shortest distance from 2206 to 55951 is 584546
+order: 211 Time: 405ms
+The shortest distance from 105576 to 264123 is 539827
+order: 212 Time: 590ms
+The shortest distance from 186239 to 225528 is 656803
+order: 213 Time: 773ms
+The shortest distance from 147028 to 250394 is 431032
+order: 214 Time: 516ms
+The shortest distance from 7457 to 6697 is 76154
+order: 215 Time: 114ms
+The shortest distance from 237053 to 171384 is 801909
+order: 216 Time: 607ms
+The shortest distance from 191550 to 144625 is 907937
+order: 217 Time: 501ms
+The shortest distance from 63516 to 17200 is 766495
+order: 218 Time: 591ms
+The shortest distance from 47967 to 139882 is 238225
+order: 219 Time: 259ms
+The shortest distance from 209057 to 139726 is 162751
+order: 220 Time: 198ms
+The shortest distance from 14668 to 202963 is 401153
+order: 221 Time: 421ms
+The shortest distance from 39994 to 176167 is 599283
+order: 222 Time: 720ms
+The shortest distance from 236547 to 117639 is 1073846
+order: 223 Time: 698ms
+The shortest distance from 11330 to 106772 is 359802
+order: 224 Time: 378ms
+The shortest distance from 108669 to 9535 is 230636
+order: 225 Time: 219ms
+The shortest distance from 255564 to 78041 is 914347
+order: 226 Time: 748ms
+The shortest distance from 88229 to 247124 is 911110
+order: 227 Time: 666ms
+The shortest distance from 90390 to 217643 is 455356
+order: 228 Time: 244ms
+The shortest distance from 218729 to 18665 is 360958
+order: 229 Time: 389ms
+The shortest distance from 216356 to 162563 is 427042
+order: 230 Time: 432ms
+The shortest distance from 29835 to 209174 is 577935
+order: 231 Time: 514ms
+The shortest distance from 71323 to 202445 is 548911
+order: 232 Time: 446ms
+The shortest distance from 184142 to 58304 is 757290
+order: 233 Time: 715ms
+The shortest distance from 146345 to 48636 is 284808
+order: 234 Time: 285ms
+The shortest distance from 18913 to 66490 is 639525
+order: 235 Time: 739ms
+The shortest distance from 124380 to 196098 is 505429
+order: 236 Time: 442ms
+The shortest distance from 213339 to 220401 is 493255
+order: 237 Time: 420ms
+The shortest distance from 240515 to 30279 is 381216
+order: 238 Time: 314ms
+The shortest distance from 174219 to 168862 is 99221
+order: 239 Time: 136ms
+The shortest distance from 197940 to 254919 is 639372
+order: 240 Time: 719ms
+The shortest distance from 242324 to 199481 is 257368
+order: 241 Time: 195ms
+The shortest distance from 120308 to 36978 is 306323
+order: 242 Time: 257ms
+The shortest distance from 78673 to 11233 is 870791
+order: 243 Time: 491ms
+The shortest distance from 221237 to 69660 is 140789
+order: 244 Time: 128ms
+The shortest distance from 245161 to 3633 is 325144
+order: 245 Time: 255ms
+The shortest distance from 7310 to 91507 is 844241
+order: 246 Time: 749ms
+The shortest distance from 245117 to 45865 is 605326
+order: 247 Time: 589ms
+The shortest distance from 203016 to 229346 is 547759
+order: 248 Time: 626ms
+The shortest distance from 172379 to 240815 is 533748
+order: 249 Time: 472ms
+The shortest distance from 8208 to 173844 is 528463
+order: 250 Time: 617ms
+The shortest distance from 156464 to 158273 is 70666
+order: 251 Time: 113ms
+The shortest distance from 193389 to 71821 is 931293
+order: 252 Time: 618ms
+The shortest distance from 239894 to 82763 is 1121212
+order: 253 Time: 762ms
+The shortest distance from 66907 to 121698 is 170898
+order: 254 Time: 161ms
+The shortest distance from 200956 to 158621 is 269098
+order: 255 Time: 325ms
+The shortest distance from 262873 to 230646 is 350445
+order: 256 Time: 152ms
+The shortest distance from 59719 to 189743 is 468628
+order: 257 Time: 345ms
+The shortest distance from 109408 to 58797 is 483182
+order: 258 Time: 476ms
+The shortest distance from 183298 to 46771 is 528917
+order: 259 Time: 468ms
+The shortest distance from 76938 to 49434 is 375017
+order: 260 Time: 252ms
+The shortest distance from 94089 to 45334 is 301857
+order: 261 Time: 247ms
+The shortest distance from 49375 to 243317 is 590069
+order: 262 Time: 720ms
+The shortest distance from 18730 to 49826 is 207317
+order: 263 Time: 224ms
+The shortest distance from 263566 to 48841 is 843505
+order: 264 Time: 505ms
+The shortest distance from 11547 to 163658 is 440091
+order: 265 Time: 516ms
+The shortest distance from 139463 to 64585 is 708174
+order: 266 Time: 695ms
+The shortest distance from 83834 to 222544 is 520251
+order: 267 Time: 196ms
+The shortest distance from 215533 to 123379 is 274212
+order: 268 Time: 251ms
+The shortest distance from 71846 to 193287 is 876241
+order: 269 Time: 731ms
+The shortest distance from 252407 to 74172 is 747862
+order: 270 Time: 709ms
+The shortest distance from 94832 to 110182 is 286473
+order: 271 Time: 150ms
+The shortest distance from 112268 to 58094 is 754952
+order: 272 Time: 776ms
+The shortest distance from 198139 to 217788 is 257920
+order: 273 Time: 320ms
+The shortest distance from 21044 to 200075 is 280310
+order: 274 Time: 329ms
+The shortest distance from 65448 to 95298 is 591716
+order: 275 Time: 356ms
+The shortest distance from 70349 to 263631 is 748715
+order: 276 Time: 707ms
+The shortest distance from 247892 to 111940 is 481028
+order: 277 Time: 411ms
+The shortest distance from 60441 to 253401 is 830573
+order: 278 Time: 591ms
+The shortest distance from 110355 to 15657 is 202870
+order: 279 Time: 208ms
+The shortest distance from 200295 to 210513 is 113805
+order: 280 Time: 147ms
+The shortest distance from 250127 to 137495 is 535434
+order: 281 Time: 240ms
+The shortest distance from 126629 to 87703 is 382510
+order: 282 Time: 414ms
+The shortest distance from 139908 to 55665 is 103829
+order: 283 Time: 136ms
+The shortest distance from 58174 to 116421 is 284175
+order: 284 Time: 200ms
+The shortest distance from 101927 to 252807 is 674259
+order: 285 Time: 574ms
+The shortest distance from 72379 to 221968 is 210987
+order: 286 Time: 205ms
+The shortest distance from 260034 to 93187 is 658728
+order: 287 Time: 581ms
+The shortest distance from 260092 to 257573 is 340657
+order: 288 Time: 207ms
+The shortest distance from 109651 to 255011 is 726908
+order: 289 Time: 733ms
+The shortest distance from 177881 to 84130 is 1216072
+order: 290 Time: 761ms
+The shortest distance from 190365 to 28858 is 152380
+order: 291 Time: 181ms
+The shortest distance from 210705 to 92548 is 658132
+order: 292 Time: 674ms
+The shortest distance from 34750 to 32254 is 123394
+order: 293 Time: 140ms
+The shortest distance from 50255 to 34404 is 228779
+order: 294 Time: 229ms
+The shortest distance from 72194 to 201598 is 580880
+order: 295 Time: 508ms
+The shortest distance from 12486 to 212155 is 338119
+order: 296 Time: 367ms
+The shortest distance from 18833 to 162029 is 487906
+order: 297 Time: 605ms
+The shortest distance from 75459 to 223388 is 333016
+order: 298 Time: 240ms
+The shortest distance from 80794 to 112459 is 744682
+order: 299 Time: 412ms
+The shortest distance from 248841 to 174617 is 413937
+order: 300 Time: 499ms
+The shortest distance from 144313 to 155590 is 335429
+order: 301 Time: 434ms
+The shortest distance from 255065 to 13200 is 590941
+order: 302 Time: 239ms
+The shortest distance from 160669 to 187796 is 477181
+order: 303 Time: 306ms
+The shortest distance from 63071 to 30703 is 646994
+order: 304 Time: 509ms
+The shortest distance from 122602 to 91213 is 562978
+order: 305 Time: 561ms
+The shortest distance from 226390 to 6885 is 318394
+order: 306 Time: 149ms
+The shortest distance from 255217 to 19373 is 592740
+order: 307 Time: 279ms
+The shortest distance from 211384 to 31927 is 556887
+order: 308 Time: 585ms
+The shortest distance from 256355 to 79650 is 1018981
+order: 309 Time: 775ms
+The shortest distance from 79581 to 186958 is 651781
+order: 310 Time: 354ms
+The shortest distance from 215331 to 150766 is 139533
+order: 311 Time: 138ms
+The shortest distance from 170279 to 22665 is 597561
+order: 312 Time: 397ms
+The shortest distance from 72171 to 119930 is 155032
+order: 313 Time: 151ms
+The shortest distance from 10207 to 56722 is 249618
+order: 314 Time: 223ms
+The shortest distance from 118488 to 217868 is 897070
+order: 315 Time: 529ms
+The shortest distance from 73212 to 128613 is 260121
+order: 316 Time: 192ms
+The shortest distance from 187507 to 146971 is 129363
+order: 317 Time: 158ms
+The shortest distance from 159840 to 222213 is 598411
+order: 318 Time: 352ms
+The shortest distance from 75415 to 168429 is 783646
+order: 319 Time: 574ms
+The shortest distance from 59598 to 86589 is 425140
+order: 320 Time: 299ms
+The shortest distance from 52432 to 202111 is 160352
+order: 321 Time: 180ms
+The shortest distance from 19005 to 49986 is 181994
+order: 322 Time: 205ms
+The shortest distance from 33992 to 66261 is 619837
+order: 323 Time: 701ms
+The shortest distance from 226104 to 131595 is 669819
+order: 324 Time: 480ms
+The shortest distance from 38790 to 255539 is 522132
+order: 325 Time: 608ms
+The shortest distance from 107616 to 180695 is 568549
+order: 326 Time: 592ms
+The shortest distance from 220772 to 118304 is 294591
+order: 327 Time: 258ms
+The shortest distance from 4645 to 200190 is 453844
+order: 328 Time: 238ms
+The shortest distance from 250618 to 60755 is 810635
+order: 329 Time: 721ms
+The shortest distance from 163601 to 93937 is 633849
+order: 330 Time: 599ms
+The shortest distance from 217728 to 167508 is 396148
+order: 331 Time: 432ms
+The shortest distance from 64045 to 124291 is 162110
+order: 332 Time: 157ms
+The shortest distance from 169074 to 14133 is 425143
+order: 333 Time: 354ms
+The shortest distance from 108900 to 14729 is 141226
+order: 334 Time: 148ms
+The shortest distance from 24474 to 18402 is 146631
+order: 335 Time: 160ms
+The shortest distance from 180028 to 194512 is 1108107
+order: 336 Time: 760ms
+The shortest distance from 73073 to 30143 is 675593
+order: 337 Time: 626ms
+The shortest distance from 24678 to 258406 is 364604
+order: 338 Time: 481ms
+The shortest distance from 96419 to 121301 is 368027
+order: 339 Time: 255ms
+The shortest distance from 203852 to 257241 is 483293
+order: 340 Time: 531ms
+The shortest distance from 153824 to 261657 is 656323
+order: 341 Time: 546ms
+The shortest distance from 144575 to 20056 is 314096
+order: 342 Time: 392ms
+The shortest distance from 248946 to 237011 is 373817
+order: 343 Time: 429ms
+The shortest distance from 96313 to 240352 is 693405
+order: 344 Time: 603ms
+The shortest distance from 99809 to 232215 is 505187
+order: 345 Time: 458ms
+The shortest distance from 250126 to 27524 is 634965
+order: 346 Time: 306ms
+The shortest distance from 140963 to 45448 is 301594
+order: 347 Time: 390ms
+The shortest distance from 191956 to 47279 is 709281
+order: 348 Time: 310ms
+The shortest distance from 157603 to 149569 is 423515
+order: 349 Time: 292ms
+The shortest distance from 220594 to 235967 is 987746
+order: 350 Time: 767ms
+The shortest distance from 174135 to 141019 is 297490
+order: 351 Time: 255ms
+The shortest distance from 217423 to 70754 is 305728
+order: 352 Time: 290ms
+The shortest distance from 248780 to 79526 is 854829
+order: 353 Time: 756ms
+The shortest distance from 196819 to 84976 is 764915
+order: 354 Time: 763ms
+The shortest distance from 161364 to 261224 is 492091
+order: 355 Time: 469ms
+The shortest distance from 60048 to 136722 is 552040
+order: 356 Time: 464ms
+The shortest distance from 126824 to 163599 is 530027
+order: 357 Time: 586ms
+The shortest distance from 232090 to 228629 is 108223
+order: 358 Time: 119ms
+The shortest distance from 31318 to 223799 is 606016
+order: 359 Time: 566ms
+The shortest distance from 257627 to 150917 is 498331
+order: 360 Time: 460ms
+The shortest distance from 183394 to 238233 is 750069
+order: 361 Time: 670ms
+The shortest distance from 128222 to 192946 is 729952
+order: 362 Time: 732ms
+The shortest distance from 90473 to 62405 is 351520
+order: 363 Time: 183ms
+The shortest distance from 68731 to 177501 is 781070
+order: 364 Time: 713ms
+The shortest distance from 226748 to 81369 is 1109234
+order: 365 Time: 747ms
+The shortest distance from 231741 to 69489 is 714219
+order: 366 Time: 654ms
+The shortest distance from 118027 to 166686 is 730821
+order: 367 Time: 608ms
+The shortest distance from 201690 to 126692 is 506581
+order: 368 Time: 518ms
+The shortest distance from 105702 to 187408 is 505036
+order: 369 Time: 340ms
+The shortest distance from 116526 to 79692 is 408272
+order: 370 Time: 288ms
+The shortest distance from 67970 to 124855 is 69169
+order: 371 Time: 114ms
+The shortest distance from 56524 to 49805 is 339757
+order: 372 Time: 442ms
+The shortest distance from 178486 to 158388 is 280534
+order: 373 Time: 143ms
+The shortest distance from 76888 to 132634 is 641473
+order: 374 Time: 468ms
+The shortest distance from 251003 to 39112 is 388939
+order: 375 Time: 440ms
+The shortest distance from 248743 to 185610 is 350926
+order: 376 Time: 361ms
+The shortest distance from 159344 to 174994 is 227902
+order: 377 Time: 193ms
+The shortest distance from 96633 to 161082 is 854637
+order: 378 Time: 727ms
+The shortest distance from 114791 to 130244 is 615535
+order: 379 Time: 391ms
+The shortest distance from 171181 to 63035 is 686434
+order: 380 Time: 542ms
+The shortest distance from 215405 to 211787 is 316087
+order: 381 Time: 296ms
+The shortest distance from 28469 to 242618 is 424312
+order: 382 Time: 548ms
+The shortest distance from 213496 to 4066 is 724658
+order: 383 Time: 661ms
+The shortest distance from 236437 to 189102 is 627979
+order: 384 Time: 275ms
+The shortest distance from 84556 to 114733 is 1215673
+order: 385 Time: 695ms
+The shortest distance from 126920 to 98523 is 325176
+order: 386 Time: 346ms
+The shortest distance from 236301 to 178074 is 909134
+order: 387 Time: 572ms
+The shortest distance from 241620 to 59926 is 729753
+order: 388 Time: 689ms
+The shortest distance from 117030 to 127268 is 337745
+order: 389 Time: 201ms
+The shortest distance from 162781 to 219258 is 452409
+order: 390 Time: 421ms
+The shortest distance from 80209 to 256862 is 1050814
+order: 391 Time: 687ms
+The shortest distance from 197231 to 158392 is 308103
+order: 392 Time: 372ms
+The shortest distance from 51413 to 31560 is 357419
+order: 393 Time: 482ms
+The shortest distance from 48777 to 17206 is 229258
+order: 394 Time: 256ms
+The shortest distance from 166257 to 141885 is 297021
+order: 395 Time: 273ms
+The shortest distance from 127316 to 181728 is 708690
+order: 396 Time: 715ms
+The shortest distance from 23150 to 153906 is 476409
+order: 397 Time: 615ms
+The shortest distance from 258855 to 74030 is 1109002
+order: 398 Time: 697ms
+The shortest distance from 241965 to 12926 is 283301
+order: 399 Time: 230ms
+The shortest distance from 76065 to 217639 is 392581
+order: 400 Time: 241ms
+The shortest distance from 125875 to 8271 is 524744
+order: 401 Time: 523ms
+The shortest distance from 149667 to 244281 is 650473
+order: 402 Time: 691ms
+The shortest distance from 171159 to 222380 is 508201
+order: 403 Time: 354ms
+The shortest distance from 86992 to 76782 is 463009
+order: 404 Time: 190ms
+The shortest distance from 209395 to 217765 is 307331
+order: 405 Time: 333ms
+The shortest distance from 259403 to 12870 is 541079
+order: 406 Time: 242ms
+The shortest distance from 87128 to 255107 is 1450794
+order: 407 Time: 752ms
+The shortest distance from 32689 to 150088 is 544189
+order: 408 Time: 543ms
+The shortest distance from 105077 to 123108 is 265471
+order: 409 Time: 295ms
+The shortest distance from 234136 to 78186 is 927984
+order: 410 Time: 735ms
+The shortest distance from 241733 to 108893 is 460165
+order: 411 Time: 481ms
+The shortest distance from 248429 to 49028 is 411649
+order: 412 Time: 461ms
+The shortest distance from 83048 to 174305 is 984865
+order: 413 Time: 604ms
+The shortest distance from 183 to 69758 is 905469
+order: 414 Time: 652ms
+The shortest distance from 233062 to 4339 is 540786
+order: 415 Time: 433ms
+The shortest distance from 17667 to 254379 is 376528
+order: 416 Time: 394ms
+The shortest distance from 14737 to 201597 is 437774
+order: 417 Time: 447ms
+The shortest distance from 241761 to 95437 is 664909
+order: 418 Time: 671ms
+The shortest distance from 205513 to 116850 is 615955
+order: 419 Time: 668ms
+The shortest distance from 224177 to 71806 is 249288
+order: 420 Time: 214ms
+The shortest distance from 80795 to 95051 is 785977
+order: 421 Time: 450ms
+The shortest distance from 15405 to 41676 is 310604
+order: 422 Time: 271ms
+The shortest distance from 210761 to 258944 is 664588
+order: 423 Time: 667ms
+The shortest distance from 133188 to 10947 is 210925
+order: 424 Time: 216ms
+The shortest distance from 203335 to 69730 is 498351
+order: 425 Time: 570ms
+The shortest distance from 157787 to 53694 is 511746
+order: 426 Time: 346ms
+The shortest distance from 168384 to 158280 is 122235
+order: 427 Time: 157ms
+The shortest distance from 67670 to 250358 is 631491
+order: 428 Time: 590ms
+The shortest distance from 261700 to 257747 is 264828
+order: 429 Time: 145ms
+The shortest distance from 120990 to 249272 is 522281
+order: 430 Time: 522ms
+The shortest distance from 140393 to 67243 is 417574
+order: 431 Time: 518ms
+The shortest distance from 222834 to 142239 is 243685
+order: 432 Time: 239ms
+The shortest distance from 105406 to 80637 is 672365
+order: 433 Time: 755ms
+The shortest distance from 261258 to 225304 is 301893
+order: 434 Time: 227ms
+The shortest distance from 97897 to 117445 is 527043
+order: 435 Time: 440ms
+The shortest distance from 35854 to 257486 is 584471
+order: 436 Time: 664ms
+The shortest distance from 259389 to 262678 is 160593
+order: 437 Time: 111ms
+The shortest distance from 219157 to 158883 is 608156
+order: 438 Time: 640ms
+The shortest distance from 245687 to 198986 is 361243
+order: 439 Time: 286ms
+The shortest distance from 55666 to 232173 is 387532
+order: 440 Time: 533ms
+The shortest distance from 61191 to 3318 is 1102421
+order: 441 Time: 753ms
+The shortest distance from 167175 to 147599 is 357731
+order: 442 Time: 308ms
+The shortest distance from 131163 to 191357 is 790665
+order: 443 Time: 755ms
+The shortest distance from 90096 to 245525 is 1001743
+order: 444 Time: 695ms
+The shortest distance from 221213 to 210886 is 431605
+order: 445 Time: 433ms
+The shortest distance from 44568 to 50445 is 108764
+order: 446 Time: 130ms
+The shortest distance from 235231 to 22795 is 298895
+order: 447 Time: 202ms
+The shortest distance from 132076 to 178880 is 536572
+order: 448 Time: 600ms
+The shortest distance from 94907 to 104105 is 313559
+order: 449 Time: 159ms
+The shortest distance from 141019 to 111035 is 357349
+order: 450 Time: 467ms
+The shortest distance from 168276 to 78623 is 848552
+order: 451 Time: 729ms
+The shortest distance from 164822 to 215812 is 369666
+order: 452 Time: 334ms
+The shortest distance from 154134 to 183357 is 120651
+order: 453 Time: 149ms
+The shortest distance from 104350 to 5993 is 715014
+order: 454 Time: 761ms
+The shortest distance from 29045 to 111261 is 158342
+order: 455 Time: 175ms
+The shortest distance from 184694 to 53651 is 476679
+order: 456 Time: 421ms
+The shortest distance from 2022 to 13727 is 497259
+order: 457 Time: 258ms
+The shortest distance from 49709 to 157526 is 593356
+order: 458 Time: 688ms
+The shortest distance from 226032 to 38251 is 495522
+order: 459 Time: 353ms
+The shortest distance from 30066 to 539 is 624761
+order: 460 Time: 559ms
+The shortest distance from 143476 to 115709 is 644375
+order: 461 Time: 737ms
+The shortest distance from 237576 to 244793 is 165607
+order: 462 Time: 119ms
+The shortest distance from 227315 to 105433 is 374869
+order: 463 Time: 242ms
+The shortest distance from 195974 to 164435 is 189599
+order: 464 Time: 224ms
+The shortest distance from 78532 to 3621 is 1231528
+order: 465 Time: 747ms
+The shortest distance from 79607 to 67011 is 306163
+order: 466 Time: 181ms
+The shortest distance from 244293 to 220846 is 811019
+order: 467 Time: 642ms
+The shortest distance from 22901 to 146755 is 378096
+order: 468 Time: 457ms
+The shortest distance from 66021 to 144193 is 616595
+order: 469 Time: 354ms
+The shortest distance from 202318 to 71468 is 537368
+order: 470 Time: 628ms
+The shortest distance from 127546 to 133346 is 508978
+order: 471 Time: 529ms
+The shortest distance from 209105 to 80584 is 802302
+order: 472 Time: 746ms
+The shortest distance from 95163 to 207017 is 672680
+order: 473 Time: 552ms
+The shortest distance from 258812 to 136851 is 511358
+order: 474 Time: 234ms
+The shortest distance from 48538 to 100779 is 279766
+order: 475 Time: 346ms
+The shortest distance from 16892 to 9824 is 21841
+order: 476 Time: 103ms
+The shortest distance from 3592 to 124537 is 994304
+order: 477 Time: 674ms
+The shortest distance from 190680 to 79144 is 744583
+order: 478 Time: 761ms
+The shortest distance from 231599 to 194343 is 481248
+order: 479 Time: 371ms
+The shortest distance from 221555 to 165204 is 485454
+order: 480 Time: 473ms
+The shortest distance from 227203 to 47832 is 460121
+order: 481 Time: 371ms
+The shortest distance from 260767 to 71777 is 1080608
+order: 482 Time: 686ms
+The shortest distance from 255842 to 166055 is 425688
+order: 483 Time: 402ms
+The shortest distance from 171591 to 258798 is 840575
+order: 484 Time: 703ms
+The shortest distance from 25651 to 236962 is 258595
+order: 485 Time: 299ms
+The shortest distance from 172308 to 184899 is 86138
+order: 486 Time: 120ms
+The shortest distance from 223793 to 182237 is 552509
+order: 487 Time: 634ms
+The shortest distance from 259855 to 111667 is 532927
+order: 488 Time: 439ms
+The shortest distance from 152815 to 59466 is 789189
+order: 489 Time: 670ms
+The shortest distance from 100227 to 121130 is 278646
+order: 490 Time: 227ms
+The shortest distance from 130523 to 97008 is 249909
+order: 491 Time: 268ms
+The shortest distance from 62461 to 249683 is 841157
+order: 492 Time: 575ms
+The shortest distance from 253060 to 1483 is 294520
+order: 493 Time: 239ms
+The shortest distance from 257821 to 195998 is 758435
+order: 494 Time: 317ms
+The shortest distance from 133877 to 126416 is 545935
+order: 495 Time: 628ms
+The shortest distance from 159856 to 245423 is 652460
+order: 496 Time: 455ms
+The shortest distance from 128541 to 164741 is 576302
+order: 497 Time: 563ms
+The shortest distance from 205534 to 171024 is 207112
+order: 498 Time: 252ms
+The shortest distance from 120195 to 184769 is 690484
+order: 499 Time: 616ms
+The shortest distance from 107334 to 212425 is 617108
+order: 500 Time: 604ms
+The shortest distance from 103407 to 129825 is 357601
+order: 501 Time: 375ms
+The shortest distance from 46383 to 93380 is 269430
+order: 502 Time: 294ms
+The shortest distance from 215042 to 147142 is 172135
+order: 503 Time: 131ms
+The shortest distance from 112541 to 173320 is 682782
+order: 504 Time: 738ms
+The shortest distance from 211768 to 143564 is 204594
+order: 505 Time: 237ms
+The shortest distance from 227101 to 156521 is 820935
+order: 506 Time: 717ms
+The shortest distance from 241911 to 100061 is 632725
+order: 507 Time: 664ms
+The shortest distance from 36518 to 88320 is 533561
+order: 508 Time: 611ms
+The shortest distance from 99155 to 135522 is 521533
+order: 509 Time: 445ms
+The shortest distance from 217638 to 135784 is 332864
+order: 510 Time: 322ms
+The shortest distance from 32972 to 77294 is 648274
+order: 511 Time: 673ms
+The shortest distance from 52811 to 109259 is 315589
+order: 512 Time: 429ms
+The shortest distance from 243853 to 82471 is 1265406
+order: 513 Time: 782ms
+The shortest distance from 123182 to 256460 is 754991
+order: 514 Time: 697ms
+The shortest distance from 23417 to 152676 is 446791
+order: 515 Time: 572ms
+The shortest distance from 257423 to 195365 is 351148
+order: 516 Time: 258ms
+The shortest distance from 222272 to 181714 is 517614
+order: 517 Time: 565ms
+The shortest distance from 228871 to 190847 is 354257
+order: 518 Time: 274ms
+The shortest distance from 579 to 68040 is 995781
+order: 519 Time: 658ms
+The shortest distance from 222278 to 115428 is 651790
+order: 520 Time: 686ms
+The shortest distance from 191664 to 224016 is 908212
+order: 521 Time: 533ms
+The shortest distance from 206461 to 229678 is 582834
+order: 522 Time: 625ms
+The shortest distance from 83246 to 7580 is 913589
+order: 523 Time: 531ms
+The shortest distance from 125894 to 55741 is 286034
+order: 524 Time: 262ms
+The shortest distance from 153955 to 188817 is 362232
+order: 525 Time: 274ms
+The shortest distance from 243105 to 222921 is 694491
+order: 526 Time: 560ms
+The shortest distance from 173253 to 135816 is 397214
+order: 527 Time: 244ms
+The shortest distance from 5358 to 66400 is 1031587
+order: 528 Time: 750ms
+The shortest distance from 126555 to 240072 is 680078
+order: 529 Time: 690ms
+The shortest distance from 181349 to 175892 is 185412
+order: 530 Time: 214ms
+The shortest distance from 105168 to 242170 is 435695
+order: 531 Time: 566ms
+The shortest distance from 119177 to 197587 is 826009
+order: 532 Time: 413ms
+The shortest distance from 141002 to 2562 is 541054
+order: 533 Time: 684ms
+The shortest distance from 110008 to 106270 is 171794
+order: 534 Time: 179ms
+The shortest distance from 180463 to 74626 is 786928
+order: 535 Time: 692ms
+The shortest distance from 80146 to 124418 is 396999
+order: 536 Time: 222ms
+The shortest distance from 95466 to 7479 is 419690
+order: 537 Time: 278ms
+The shortest distance from 254118 to 245767 is 110851
+order: 538 Time: 130ms
+The shortest distance from 151543 to 132346 is 501752
+order: 539 Time: 595ms
+The shortest distance from 142814 to 245651 is 446501
+order: 540 Time: 559ms
+The shortest distance from 177348 to 127857 is 680996
+order: 541 Time: 509ms
+The shortest distance from 231790 to 201618 is 513041
+order: 542 Time: 462ms
+The shortest distance from 233786 to 119277 is 382518
+order: 543 Time: 231ms
+The shortest distance from 138183 to 217461 is 371098
+order: 544 Time: 487ms
+The shortest distance from 134035 to 129645 is 508821
+order: 545 Time: 615ms
+The shortest distance from 190612 to 29495 is 419843
+order: 546 Time: 597ms
+The shortest distance from 90144 to 228447 is 902302
+order: 547 Time: 636ms
+The shortest distance from 245787 to 53150 is 486428
+order: 548 Time: 460ms
+The shortest distance from 120371 to 141650 is 396096
+order: 549 Time: 359ms
+The shortest distance from 249136 to 127715 is 611243
+order: 550 Time: 692ms
+The shortest distance from 131494 to 142267 is 276397
+order: 551 Time: 299ms
+The shortest distance from 165279 to 115234 is 871487
+order: 552 Time: 744ms
+The shortest distance from 251814 to 160823 is 520615
+order: 553 Time: 578ms
+The shortest distance from 130731 to 235163 is 502038
+order: 554 Time: 589ms
+The shortest distance from 131152 to 187958 is 350679
+order: 555 Time: 391ms
+The shortest distance from 127686 to 32813 is 388815
+order: 556 Time: 417ms
+The shortest distance from 167832 to 47249 is 497629
+order: 557 Time: 434ms
+The shortest distance from 224899 to 42045 is 365815
+order: 558 Time: 394ms
+The shortest distance from 216134 to 12317 is 391250
+order: 559 Time: 404ms
+The shortest distance from 240882 to 149314 is 444277
+order: 560 Time: 419ms
+The shortest distance from 129599 to 84247 is 538195
+order: 561 Time: 570ms
+The shortest distance from 29901 to 92460 is 255930
+order: 562 Time: 185ms
+The shortest distance from 236344 to 61193 is 1186905
+order: 563 Time: 710ms
+The shortest distance from 258550 to 118855 is 872853
+order: 564 Time: 709ms
+The shortest distance from 185899 to 241001 is 608822
+order: 565 Time: 426ms
+The shortest distance from 227695 to 14027 is 359202
+order: 566 Time: 224ms
+The shortest distance from 4984 to 79726 is 1120928
+order: 567 Time: 752ms
+The shortest distance from 150438 to 234460 is 654195
+order: 568 Time: 735ms
+The shortest distance from 44891 to 184312 is 582046
+order: 569 Time: 592ms
+The shortest distance from 238258 to 166991 is 784862
+order: 570 Time: 468ms
+The shortest distance from 259956 to 97049 is 822125
+order: 571 Time: 692ms
+The shortest distance from 112126 to 49152 is 253475
+order: 572 Time: 264ms
+The shortest distance from 104623 to 134419 is 250040
+order: 573 Time: 274ms
+The shortest distance from 26494 to 117344 is 519194
+order: 574 Time: 662ms
+The shortest distance from 134795 to 131536 is 369554
+order: 575 Time: 500ms
+The shortest distance from 36330 to 105788 is 46427
+order: 576 Time: 106ms
+The shortest distance from 55860 to 125304 is 238435
+order: 577 Time: 306ms
+The shortest distance from 121638 to 142604 is 314806
+order: 578 Time: 316ms
+The shortest distance from 249118 to 155011 is 442189
+order: 579 Time: 533ms
+The shortest distance from 120313 to 142418 is 447376
+order: 580 Time: 394ms
+The shortest distance from 82119 to 65428 is 361218
+order: 581 Time: 151ms
+The shortest distance from 263850 to 64714 is 915302
+order: 582 Time: 742ms
+The shortest distance from 247378 to 118440 is 877006
+order: 583 Time: 927ms
+The shortest distance from 10906 to 245644 is 270209
+order: 584 Time: 245ms
+The shortest distance from 163112 to 3853 is 582178
+order: 585 Time: 569ms
+The shortest distance from 203321 to 103037 is 573430
+order: 586 Time: 660ms
+The shortest distance from 130232 to 29109 is 179406
+order: 587 Time: 196ms
+The shortest distance from 175148 to 58956 is 904900
+order: 588 Time: 720ms
+The shortest distance from 121582 to 57875 is 436798
+order: 589 Time: 468ms
+The shortest distance from 224465 to 177492 is 592382
+order: 590 Time: 686ms
+The shortest distance from 55026 to 256824 is 449200
+order: 591 Time: 615ms
+The shortest distance from 140945 to 135862 is 141877
+order: 592 Time: 180ms
+The shortest distance from 207129 to 70221 is 474565
+order: 593 Time: 539ms
+The shortest distance from 24249 to 249768 is 177599
+order: 594 Time: 203ms
+The shortest distance from 200895 to 261406 is 380973
+order: 595 Time: 440ms
+The shortest distance from 95262 to 140298 is 542658
+order: 596 Time: 411ms
+The shortest distance from 120966 to 91225 is 384798
+order: 597 Time: 388ms
+The shortest distance from 129321 to 235615 is 619307
+order: 598 Time: 655ms
+The shortest distance from 182113 to 31520 is 676155
+order: 599 Time: 546ms
+The shortest distance from 160257 to 197096 is 343464
+order: 600 Time: 232ms
+The shortest distance from 188715 to 121428 is 232087
+order: 601 Time: 287ms
+The shortest distance from 206524 to 177586 is 251287
+order: 602 Time: 307ms
+The shortest distance from 257073 to 142030 is 443759
+order: 603 Time: 380ms
+The shortest distance from 29498 to 209781 is 585323
+order: 604 Time: 533ms
+The shortest distance from 224012 to 196750 is 252914
+order: 605 Time: 238ms
+The shortest distance from 69068 to 216986 is 219062
+order: 606 Time: 209ms
+The shortest distance from 183301 to 244445 is 509691
+order: 607 Time: 446ms
+The shortest distance from 44697 to 117099 is 418051
+order: 608 Time: 484ms
+The shortest distance from 65799 to 2730 is 1128960
+order: 609 Time: 748ms
+The shortest distance from 42229 to 262289 is 642314
+order: 610 Time: 653ms
+The shortest distance from 202878 to 117707 is 596737
+order: 611 Time: 672ms
+The shortest distance from 200316 to 220114 is 504174
+order: 612 Time: 586ms
+The shortest distance from 191174 to 262808 is 872176
+order: 613 Time: 476ms
+The shortest distance from 146634 to 34005 is 379346
+order: 614 Time: 443ms
+The shortest distance from 233051 to 78198 is 996132
+order: 615 Time: 747ms
+The shortest distance from 225839 to 44635 is 562490
+order: 616 Time: 374ms
+The shortest distance from 131092 to 107289 is 399484
+order: 617 Time: 443ms
+The shortest distance from 121694 to 224058 is 302293
+order: 618 Time: 223ms
+The shortest distance from 85374 to 149460 is 564329
+order: 619 Time: 293ms
+The shortest distance from 264014 to 29296 is 452307
+order: 620 Time: 431ms
+The shortest distance from 110447 to 37217 is 125854
+order: 621 Time: 145ms
+The shortest distance from 15620 to 106732 is 238293
+order: 622 Time: 227ms
+The shortest distance from 57024 to 178295 is 1137348
+order: 623 Time: 723ms
+The shortest distance from 79139 to 216684 is 442028
+order: 624 Time: 230ms
+The shortest distance from 218697 to 135252 is 323055
+order: 625 Time: 331ms
+The shortest distance from 151141 to 44757 is 351375
+order: 626 Time: 385ms
+The shortest distance from 135573 to 96560 is 547072
+order: 627 Time: 677ms
+The shortest distance from 156001 to 185872 is 118380
+order: 628 Time: 143ms
+The shortest distance from 76312 to 13138 is 701322
+order: 629 Time: 487ms
+The shortest distance from 211366 to 18526 is 453286
+order: 630 Time: 452ms
+The shortest distance from 139725 to 8413 is 388433
+order: 631 Time: 485ms
+The shortest distance from 11911 to 212665 is 493688
+order: 632 Time: 591ms
+The shortest distance from 93242 to 49936 is 90549
+order: 633 Time: 109ms
+The shortest distance from 172692 to 106782 is 794783
+order: 634 Time: 700ms
+The shortest distance from 48288 to 50178 is 235472
+order: 635 Time: 254ms
+The shortest distance from 220966 to 150292 is 282340
+order: 636 Time: 248ms
+The shortest distance from 209744 to 18656 is 391974
+order: 637 Time: 409ms
+The shortest distance from 183660 to 12223 is 419793
+order: 638 Time: 335ms
+The shortest distance from 19304 to 163246 is 438428
+order: 639 Time: 526ms
+The shortest distance from 38690 to 150278 is 357856
+order: 640 Time: 436ms
+The shortest distance from 53475 to 28545 is 184902
+order: 641 Time: 203ms
+The shortest distance from 92190 to 43411 is 344039
+order: 642 Time: 191ms
+The shortest distance from 135629 to 157711 is 411299
+order: 643 Time: 544ms
+The shortest distance from 81373 to 114367 is 1088310
+order: 644 Time: 708ms
+The shortest distance from 210509 to 257333 is 414839
+order: 645 Time: 408ms
+The shortest distance from 157856 to 158871 is 25305
+order: 646 Time: 107ms
+The shortest distance from 229649 to 164964 is 701394
+order: 647 Time: 606ms
+The shortest distance from 224912 to 180909 is 510661
+order: 648 Time: 541ms
+The shortest distance from 232389 to 231203 is 137029
+order: 649 Time: 136ms
+The shortest distance from 105901 to 168434 is 849821
+order: 650 Time: 703ms
+The shortest distance from 45435 to 79733 is 494198
+order: 651 Time: 596ms
+The shortest distance from 212378 to 224937 is 407479
+order: 652 Time: 392ms
+The shortest distance from 253948 to 72290 is 748157
+order: 653 Time: 764ms
+The shortest distance from 83651 to 151319 is 769575
+order: 654 Time: 381ms
+The shortest distance from 170746 to 126450 is 611309
+order: 655 Time: 536ms
+The shortest distance from 228006 to 262642 is 419120
+order: 656 Time: 334ms
+The shortest distance from 254796 to 235759 is 108235
+order: 657 Time: 106ms
+The shortest distance from 123862 to 149848 is 407773
+order: 658 Time: 382ms
+The shortest distance from 1520 to 152218 is 664389
+order: 659 Time: 426ms
+The shortest distance from 33158 to 166082 is 601827
+order: 660 Time: 648ms
+The shortest distance from 254840 to 165023 is 320166
+order: 661 Time: 303ms
+The shortest distance from 13224 to 251302 is 224438
+order: 662 Time: 223ms
+The shortest distance from 35943 to 23266 is 295344
+order: 663 Time: 331ms
+The shortest distance from 109053 to 62328 is 631292
+order: 664 Time: 683ms
+The shortest distance from 216031 to 59622 is 311459
+order: 665 Time: 289ms
+The shortest distance from 23052 to 165095 is 411570
+order: 666 Time: 527ms
+The shortest distance from 255254 to 193523 is 722012
+order: 667 Time: 391ms
+The shortest distance from 206326 to 106929 is 561796
+order: 668 Time: 617ms
+The shortest distance from 212337 to 48160 is 432072
+order: 669 Time: 416ms
+The shortest distance from 212975 to 251010 is 438675
+order: 670 Time: 384ms
+The shortest distance from 135962 to 108180 is 380893
+order: 671 Time: 512ms
+The shortest distance from 97650 to 184279 is 746312
+order: 672 Time: 638ms
+The shortest distance from 193266 to 186798 is 750821
+order: 673 Time: 440ms
+The shortest distance from 5565 to 106808 is 635228
+order: 674 Time: 564ms
+The shortest distance from 54342 to 197051 is 228400
+order: 675 Time: 255ms
+The shortest distance from 238829 to 241129 is 359056
+order: 676 Time: 150ms
+The shortest distance from 220233 to 161057 is 684734
+order: 677 Time: 669ms
+The shortest distance from 60878 to 138236 is 739363
+order: 678 Time: 530ms
+The shortest distance from 115096 to 152088 is 895692
+order: 679 Time: 701ms
+The shortest distance from 258151 to 62360 is 1148301
+order: 680 Time: 742ms
+The shortest distance from 95842 to 53950 is 436972
+order: 681 Time: 331ms
+The shortest distance from 157410 to 55466 is 475272
+order: 682 Time: 330ms
+The shortest distance from 110097 to 63377 is 544956
+order: 683 Time: 595ms
+The shortest distance from 128670 to 200158 is 511412
+order: 684 Time: 500ms
+The shortest distance from 155163 to 223056 is 511846
+order: 685 Time: 368ms
+The shortest distance from 237278 to 122812 is 933789
+order: 686 Time: 658ms
+The shortest distance from 185085 to 170584 is 132484
+order: 687 Time: 180ms
+The shortest distance from 191461 to 86916 is 1349688
+order: 688 Time: 768ms
+The shortest distance from 117429 to 192558 is 1054362
+order: 689 Time: 745ms
+The shortest distance from 120726 to 217335 is 215835
+order: 690 Time: 215ms
+The shortest distance from 141777 to 115514 is 677678
+order: 691 Time: 754ms
+The shortest distance from 10391 to 78314 is 824358
+order: 692 Time: 765ms
+The shortest distance from 168503 to 109154 is 617589
+order: 693 Time: 528ms
+The shortest distance from 90237 to 140383 is 560977
+order: 694 Time: 300ms
+The shortest distance from 229246 to 62408 is 949284
+order: 695 Time: 745ms
+The shortest distance from 175932 to 167749 is 159864
+order: 696 Time: 157ms
+The shortest distance from 241408 to 90410 is 953055
+order: 697 Time: 742ms
+The shortest distance from 104016 to 229374 is 352194
+order: 698 Time: 400ms
+The shortest distance from 133391 to 83796 is 989269
+order: 699 Time: 778ms
+The shortest distance from 212346 to 233763 is 751047
+order: 700 Time: 723ms
+The shortest distance from 65860 to 168353 is 794240
+order: 701 Time: 559ms
+The shortest distance from 97696 to 42095 is 189976
+order: 702 Time: 134ms
+The shortest distance from 230236 to 238071 is 433489
+order: 703 Time: 390ms
+The shortest distance from 32338 to 41672 is 309929
+order: 704 Time: 272ms
+The shortest distance from 33333 to 231742 is 222950
+order: 705 Time: 221ms
+The shortest distance from 159835 to 326 is 764508
+order: 706 Time: 612ms
+The shortest distance from 112428 to 173550 is 599200
+order: 707 Time: 687ms
+The shortest distance from 183804 to 167979 is 135156
+order: 708 Time: 162ms
+The shortest distance from 101650 to 128765 is 151980
+order: 709 Time: 144ms
+The shortest distance from 17067 to 215241 is 430428
+order: 710 Time: 472ms
+The shortest distance from 6384 to 185695 is 844458
+order: 711 Time: 589ms
+The shortest distance from 19499 to 137653 is 219047
+order: 712 Time: 240ms
+The shortest distance from 118981 to 73993 is 1050122
+order: 713 Time: 700ms
+The shortest distance from 166137 to 126563 is 587614
+order: 714 Time: 535ms
+The shortest distance from 45443 to 142406 is 326752
+order: 715 Time: 337ms
+The shortest distance from 34699 to 100132 is 434008
+order: 716 Time: 403ms
+The shortest distance from 141506 to 4327 is 840527
+order: 717 Time: 792ms
+The shortest distance from 137558 to 27429 is 243821
+order: 718 Time: 291ms
+The shortest distance from 51871 to 109058 is 251133
+order: 719 Time: 315ms
+The shortest distance from 210392 to 13037 is 361429
+order: 720 Time: 365ms
+The shortest distance from 84697 to 19160 is 766012
+order: 721 Time: 472ms
+The shortest distance from 217304 to 97216 is 396253
+order: 722 Time: 445ms
+The shortest distance from 185723 to 12580 is 477345
+order: 723 Time: 397ms
+The shortest distance from 147984 to 127795 is 282666
+order: 724 Time: 248ms
+The shortest distance from 55539 to 240243 is 440228
+order: 725 Time: 605ms
+The shortest distance from 223614 to 174868 is 615662
+order: 726 Time: 684ms
+The shortest distance from 833 to 155801 is 710619
+order: 727 Time: 496ms
+The shortest distance from 102317 to 105895 is 628279
+order: 728 Time: 522ms
+The shortest distance from 223311 to 103021 is 297468
+order: 729 Time: 285ms
+The shortest distance from 210088 to 147204 is 288763
+order: 730 Time: 321ms
+The shortest distance from 176865 to 174586 is 91618
+order: 731 Time: 109ms
+The shortest distance from 203110 to 70599 is 461214
+order: 732 Time: 550ms
+The shortest distance from 36196 to 201822 is 493979
+order: 733 Time: 547ms
+The shortest distance from 76575 to 204824 is 628236
+order: 734 Time: 391ms
+The shortest distance from 140244 to 51325 is 131164
+order: 735 Time: 163ms
+The shortest distance from 64806 to 80584 is 327361
+order: 736 Time: 248ms
+The shortest distance from 147280 to 152197 is 375301
+order: 737 Time: 416ms
+The shortest distance from 209276 to 110698 is 449064
+order: 738 Time: 482ms
+The shortest distance from 200122 to 147419 is 240575
+order: 739 Time: 296ms
+The shortest distance from 130250 to 13811 is 373062
+order: 740 Time: 407ms
+The shortest distance from 45336 to 244457 is 697643
+order: 741 Time: 719ms
+The shortest distance from 211765 to 96720 is 668943
+order: 742 Time: 667ms
+The shortest distance from 181035 to 29341 is 432025
+order: 743 Time: 403ms
+The shortest distance from 249883 to 162229 is 403983
+order: 744 Time: 492ms
+The shortest distance from 166044 to 239158 is 665375
+order: 745 Time: 596ms
+The shortest distance from 98537 to 73768 is 676690
+order: 746 Time: 607ms
+The shortest distance from 41682 to 186739 is 198067
+order: 747 Time: 223ms
+The shortest distance from 240646 to 158840 is 617794
+order: 748 Time: 616ms
+The shortest distance from 191113 to 233633 is 661425
+order: 749 Time: 240ms
+The shortest distance from 101626 to 150418 is 390276
+order: 750 Time: 347ms
+The shortest distance from 187886 to 126010 is 399572
+order: 751 Time: 543ms
+The shortest distance from 107557 to 192669 is 460207
+order: 752 Time: 443ms
+The shortest distance from 206392 to 161751 is 160144
+order: 753 Time: 194ms
+The shortest distance from 124446 to 235664 is 1027433
+order: 754 Time: 769ms
+The shortest distance from 68013 to 117224 is 203158
+order: 755 Time: 194ms
+The shortest distance from 258462 to 64622 is 865484
+order: 756 Time: 705ms
+The shortest distance from 182681 to 137810 is 236554
+order: 757 Time: 233ms
+The shortest distance from 23868 to 138130 is 119893
+order: 758 Time: 143ms
+The shortest distance from 2284 to 209186 is 499784
+order: 759 Time: 258ms
+The shortest distance from 196065 to 130393 is 370170
+order: 760 Time: 480ms
+The shortest distance from 98249 to 187597 is 493010
+order: 761 Time: 388ms
+The shortest distance from 142095 to 123181 is 431257
+order: 762 Time: 537ms
+The shortest distance from 204682 to 11389 is 396352
+order: 763 Time: 446ms
+The shortest distance from 184625 to 261995 is 568885
+order: 764 Time: 525ms
+The shortest distance from 122564 to 73728 is 328621
+order: 765 Time: 276ms
+The shortest distance from 122040 to 197084 is 498781
+order: 766 Time: 445ms
+The shortest distance from 91088 to 149426 is 592566
+order: 767 Time: 287ms
+The shortest distance from 192633 to 169904 is 1080570
+order: 768 Time: 681ms
+The shortest distance from 87105 to 250520 is 986269
+order: 769 Time: 591ms
+The shortest distance from 118069 to 80732 is 421232
+order: 770 Time: 326ms
+The shortest distance from 105223 to 220463 is 420233
+order: 771 Time: 535ms
+The shortest distance from 98735 to 147267 is 522842
+order: 772 Time: 472ms
+The shortest distance from 251904 to 233572 is 291643
+order: 773 Time: 245ms
+The shortest distance from 191848 to 35266 is 588450
+order: 774 Time: 212ms
+The shortest distance from 8372 to 228015 is 108976
+order: 775 Time: 123ms
+The shortest distance from 56149 to 109076 is 277461
+order: 776 Time: 367ms
+The shortest distance from 84474 to 96143 is 827733
+order: 777 Time: 365ms
+The shortest distance from 221766 to 124471 is 298987
+order: 778 Time: 256ms
+The shortest distance from 193595 to 193606 is 13246
+order: 779 Time: 103ms
+The shortest distance from 261454 to 225949 is 544090
+order: 780 Time: 227ms
+The shortest distance from 80926 to 59422 is 386640
+order: 781 Time: 200ms
+The shortest distance from 152471 to 100024 is 723908
+order: 782 Time: 627ms
+The shortest distance from 86150 to 145391 is 683213
+order: 783 Time: 344ms
+The shortest distance from 95965 to 206767 is 646844
+order: 784 Time: 535ms
+The shortest distance from 152165 to 231682 is 716603
+order: 785 Time: 586ms
+The shortest distance from 125670 to 56776 is 245427
+order: 786 Time: 224ms
+The shortest distance from 10942 to 45812 is 434714
+order: 787 Time: 469ms
+The shortest distance from 16369 to 222489 is 545010
+order: 788 Time: 595ms
+The shortest distance from 84045 to 94171 is 876291
+order: 789 Time: 431ms
+The shortest distance from 109288 to 155235 is 703477
+order: 790 Time: 702ms
+The shortest distance from 229574 to 219927 is 736507
+order: 791 Time: 627ms
+The shortest distance from 46583 to 163784 is 497489
+order: 792 Time: 577ms
+The shortest distance from 209010 to 74783 is 641632
+order: 793 Time: 670ms
+The shortest distance from 110612 to 93453 is 151799
+order: 794 Time: 166ms
+The shortest distance from 210107 to 73927 is 699480
+order: 795 Time: 700ms
+The shortest distance from 7455 to 126014 is 399466
+order: 796 Time: 370ms
+The shortest distance from 194870 to 218773 is 277705
+order: 797 Time: 359ms
+The shortest distance from 39990 to 214403 is 390596
+order: 798 Time: 503ms
+The shortest distance from 137722 to 12814 is 198152
+order: 799 Time: 219ms
+The shortest distance from 81110 to 94633 is 617681
+order: 800 Time: 296ms
+The shortest distance from 164032 to 112139 is 518317
+order: 801 Time: 494ms
+The shortest distance from 10706 to 101537 is 546327
+order: 802 Time: 576ms
+The shortest distance from 27000 to 24251 is 101872
+order: 803 Time: 132ms
+The shortest distance from 228623 to 217202 is 655246
+order: 804 Time: 572ms
+The shortest distance from 55935 to 56563 is 38288
+order: 805 Time: 106ms
+The shortest distance from 154099 to 83982 is 1003045
+order: 806 Time: 760ms
+The shortest distance from 173137 to 238564 is 712984
+order: 807 Time: 558ms
+The shortest distance from 168318 to 239622 is 646022
+order: 808 Time: 563ms
+The shortest distance from 117686 to 81128 is 490603
+order: 809 Time: 382ms
+The shortest distance from 191942 to 25108 is 696794
+order: 810 Time: 299ms
+The shortest distance from 232697 to 52316 is 323619
+order: 811 Time: 282ms
+The shortest distance from 153274 to 184334 is 112899
+order: 812 Time: 152ms
+The shortest distance from 75317 to 130102 is 374388
+order: 813 Time: 231ms
+The shortest distance from 261426 to 106506 is 745124
+order: 814 Time: 397ms
+The shortest distance from 72865 to 177728 is 770795
+order: 815 Time: 689ms
+The shortest distance from 131946 to 258577 is 651711
+order: 816 Time: 689ms
+The shortest distance from 66545 to 234193 is 892790
+order: 817 Time: 645ms
+The shortest distance from 165555 to 141864 is 249969
+order: 818 Time: 256ms
+The shortest distance from 87622 to 233080 is 938838
+order: 819 Time: 677ms
+The shortest distance from 241662 to 192083 is 706583
+order: 820 Time: 696ms
+The shortest distance from 230425 to 101128 is 616653
+order: 821 Time: 536ms
+The shortest distance from 10014 to 54248 is 451448
+order: 822 Time: 429ms
+The shortest distance from 254376 to 45265 is 600039
+order: 823 Time: 626ms
+The shortest distance from 239787 to 168652 is 604448
+order: 824 Time: 533ms
+The shortest distance from 45295 to 101680 is 187877
+order: 825 Time: 182ms
+The shortest distance from 222709 to 219641 is 95633
+order: 826 Time: 122ms
+The shortest distance from 107792 to 190310 is 361556
+order: 827 Time: 333ms
+The shortest distance from 9097 to 123669 is 527323
+order: 828 Time: 531ms
+The shortest distance from 99514 to 56778 is 351189
+order: 829 Time: 261ms
+The shortest distance from 182417 to 60166 is 790536
+order: 830 Time: 672ms
+The shortest distance from 4723 to 134046 is 325450
+order: 831 Time: 180ms
+The shortest distance from 126218 to 117397 is 305992
+order: 832 Time: 298ms
+The shortest distance from 39803 to 128038 is 199158
+order: 833 Time: 216ms
+The shortest distance from 231746 to 64975 is 877475
+order: 834 Time: 725ms
+The shortest distance from 59086 to 251412 is 768103
+order: 835 Time: 601ms
+The shortest distance from 139635 to 29863 is 432356
+order: 836 Time: 581ms
+The shortest distance from 185276 to 25660 is 528367
+order: 837 Time: 366ms
+The shortest distance from 88013 to 134280 is 697130
+order: 838 Time: 506ms
+The shortest distance from 214401 to 248826 is 262713
+order: 839 Time: 308ms
+The shortest distance from 222479 to 118443 is 390558
+order: 840 Time: 394ms
+The shortest distance from 132701 to 106922 is 423577
+order: 841 Time: 534ms
+The shortest distance from 167346 to 119084 is 1036492
+order: 842 Time: 794ms
+The shortest distance from 189020 to 49065 is 247653
+order: 843 Time: 343ms
+The shortest distance from 75000 to 174608 is 767507
+order: 844 Time: 759ms
+The shortest distance from 219074 to 215659 is 69413
+order: 845 Time: 133ms
+The shortest distance from 18958 to 57771 is 536212
+order: 846 Time: 801ms
+The shortest distance from 203901 to 25856 is 322476
+order: 847 Time: 472ms
+The shortest distance from 160193 to 109770 is 718672
+order: 848 Time: 886ms
+The shortest distance from 48414 to 112388 is 243272
+order: 849 Time: 515ms

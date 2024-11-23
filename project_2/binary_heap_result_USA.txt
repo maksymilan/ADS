@@ -1,0 +1,10 @@
+Time: 37746ms
+Time: 18184ms
+Time: 46091ms
+Time: 28489ms
+Time: 37302ms
+Time: 31804ms
+Time: 46511ms
+Time: 17183ms
+Time: 41997ms
+Time: 20416ms
